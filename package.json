@@ -15,7 +15,7 @@
     "docker:state": "docker compose ps",
     "docker:config": "docker compose config",
     "db:migrate": "npx prisma migrate dev --schema ./db/schema.prisma",
-    "db:show": "npx prisma studio"
+    "db:show": "npx prisma studio --schema ./db/schema.prisma"
   },
   "keywords": [],
   "author": "",
