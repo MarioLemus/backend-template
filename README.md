@@ -1,3 +1,1 @@
-# server
-
-this is the server for jobsv
+# pro server wrtitten on express - production ready
