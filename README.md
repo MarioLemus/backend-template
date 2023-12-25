@@ -1,1 +1,1 @@
-# pro server wrtitten on express - production ready
+# pro server written on express - production ready
