@@ -1,5 +1,5 @@
 # Use a Node.js image as the base
-FROM node:18
+FROM node:18-alpine3.18
 
 # Set the working directory inside the container
 WORKDIR /backend/build
